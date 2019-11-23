@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/Th3Hurrican3/MCC/media/logo.png" alt="mcclogo">
+    <img src="https://github.com/Th3Hurrican3/MCC/blob/media/logo.png" alt="mcclogo">
 </p>
 
 <h3 align="center">MCC</h3>
