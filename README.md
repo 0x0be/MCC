@@ -17,7 +17,7 @@ adam@paradise:~$ ./clone.sh
 
 # About
 
-The script is nothing but the automating of the following three:
+This script is nothing but the automation of the following three:
 
 - [libnfc](https://github.com/nfc-tools/libnfc) 
 -  [mfcuk](https://github.com/nfc-tools/mfcuk)
