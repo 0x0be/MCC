@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/Th3Hurrican3/MCC/blob/media/logo.png" alt="mcclogo">
+    <img src="https://github.com/blackeko/MCC/blob/media/logo.png" alt="mcclogo">
 </p>
 
 <h3 align="center">MCC</h3>
@@ -9,7 +9,7 @@
 
 # Installation
 ```bash
-adam@paradise:~$ git clone https://github.com/Th3Hurrican3/mcc/
+adam@paradise:~$ git clone https://github.com/blackeko/mcc/
 adam@paradise:~$ cd mcc && chmod +x install.sh clone.sh
 adam@paradise:~$ ./install.sh
 adam@paradise:~$ ./clone.sh
